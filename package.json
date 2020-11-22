@@ -30,7 +30,7 @@
   "bugs": {
     "url": "https://github.com/creativetimofficial/blk-design-system-react/issues"
   },
-  "homepage": "https://jorgescp.github.io/YahooLanding/",
+  "homepage": ".",
   "dependencies": {
     "chart.js": "2.9.3",
     "classnames": "2.2.6",
